@@ -1,5 +1,5 @@
 In ordine vanno eseguiti i seguenti file:
--sintassi.do:
+-sintassi KITAGAWA.do:
 modifica il file "popolazione_2001_2019.xls" raggruppando per classe d'età e genera il file "popolazione_2001_2019_per_cla_eta".
 Utilizza il file "soddisfazione - età, genere.xlsx" per fare alcune visualizzazioni iniziali.
 
